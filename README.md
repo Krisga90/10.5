@@ -1,0 +1,1 @@
+Simple example of using stack in object
